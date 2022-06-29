@@ -1,0 +1,10 @@
+{
+  "name": "tabs-and-spaces",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alpha Chen <alpha@kejadlen.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  }
+}
